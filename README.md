@@ -31,3 +31,6 @@ Note that I chose to configure the scroll wheel button, but any of the following
 - 0xc3 - thumb button (default "Gesture" button with Logitech Options software)
 - 0xc4 - mode shift button (by default toggles between ratchet and free-spin wheel modes)
 
+### Reference
+- PixlOne/logiops Wiki - https://github.com/PixlOne/logiops/wiki/Configuration
+- Event codes & List of keys - https://github.com/torvalds/linux/blob/master/include/uapi/linux/input-event-codes.h
